@@ -1,0 +1,8 @@
+{
+    "type":"smelting",
+    "ingredient":{
+        "item":"crops:corn"
+    },
+    "result":"crops:popcorn",
+    "experience":1
+}

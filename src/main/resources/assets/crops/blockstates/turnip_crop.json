@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "crops:block/turnip0" },
+    "age=1": { "model": "crops:block/turnip0" },
+    "age=2": { "model": "crops:block/turnip1" },
+    "age=3": { "model": "crops:block/turnip1" },
+    "age=4": { "model": "crops:block/turnip1" },
+    "age=5": { "model": "crops:block/turnip2" },
+    "age=6": { "model": "crops:block/turnip2" },
+    "age=7": { "model": "crops:block/turnip3" }
+  }
+}

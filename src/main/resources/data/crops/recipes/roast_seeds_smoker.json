@@ -1,0 +1,9 @@
+{
+    "type":"smoking",
+    "ingredient":{
+        "item":"crops:flax_seeds"
+    },
+    "result":"crops:roasted_seeds",
+    "experience":1,
+    "cookingtime":100
+}

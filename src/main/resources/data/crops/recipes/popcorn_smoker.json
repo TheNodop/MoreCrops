@@ -1,0 +1,9 @@
+{
+    "type":"smoking",
+    "ingredient":{
+        "item":"crops:corn"
+    },
+    "result":"crops:popcorn",
+    "experience":1,
+    "cookingtime":100
+}

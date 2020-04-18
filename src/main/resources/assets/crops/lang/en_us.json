@@ -1,0 +1,21 @@
+{
+  "item.crops.veggie_stew": "Veggie Stew",
+
+  "item.crops.turnip": "Turnip",
+  "item.crops.turnip_seeds": "Turnip Seeds",
+  "item.crops.turnip_salad": "Turnip Salad",
+
+  "item.crops.corn": "Corn",
+  "item.crops.corn_seeds": "Corn Seeds",
+  "item.crops.corn_cobs": "Corncobs",
+  "item.crops.corn_roasted": "Popcorn",
+
+  "item.crops.grape": "Grape",
+  "item.crops.grape_seeds": "Grape Seeds",
+  "item.crops.wine": "Bottle of Wine",
+
+  "item.crops.flax_seeds": "Flax Seeds",
+  "item.crops.flax_seeds_roasted": "Roasted Flax Seeds",
+
+  "itemGroup.crops.crops": "MORE CROPS"
+}

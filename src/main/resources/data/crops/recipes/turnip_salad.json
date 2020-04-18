@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "crops:turnip"},
+    {"tag": "minecraft:leaves"},
+    {"item": "crops:turnip"},
+    {"tag": "minecraft:leaves"},
+    {"item": "crops:turnip"}
+  ],
+  "result": {
+    "item": "crops:turnip_salad"
+  }
+}

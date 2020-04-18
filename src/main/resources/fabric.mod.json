@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "crops",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "More Crops Mod",
+  "description": "Adds more crops and stuff!",
   "authors": [
-    "Me!"
+    "TheNodop"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/TheNodop/MoreCrops"
   },
 
   "license": "CC0-1.0",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "crops.Initializer"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "crops.mixins.json"
   ],
 
   "depends": {
